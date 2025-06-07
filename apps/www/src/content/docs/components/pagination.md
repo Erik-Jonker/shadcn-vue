@@ -1,7 +1,7 @@
 ---
 title: Pagination
 description: Displays data in paged format and provides navigation between pages.
-source: apps/www/src/registry/default/ui/pagination
+source: apps/www/src/components/ui/pagination
 primitive: https://www.reka-ui.com/docs/components/pagination.html
 ---
 
@@ -24,7 +24,7 @@ import {
   PaginationItem,
   PaginationNext,
   PaginationPrevious,
-} from '@/registry/default/ui/pagination'
+} from '@/components/ui/pagination'
 </script>
 
 <template>
